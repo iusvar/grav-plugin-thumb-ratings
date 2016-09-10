@@ -69,11 +69,17 @@ The `Thumb Ratings` plugin comes with some sensible default configuration, that 
 enabled: true                   # Set to false to disable this plugin completely.
 built_in_css: true              # Use built-in CSS of the plugin.
 
-# various checks
+# Various checks
 callback: '/thumb-ratings'      # A path that the plugin will look for when processing Ajax calls
 unique_ip_check: false          # Ensures that a particular IP can only vote once
 disable_after_vote: true        # Disable the interaction after the user has already made the vote
 readonly: false                 # Set to readonly to disable all interaction
+
+# Colors
+up_bgcolor: '#00FF00'           # Background color thumb up
+down_bgcolor: '#FF0000'         # Background color thumb down
+up_color: '#ffffff'             # Color thumb up
+down_color: '#ffffff'           # Color thumb down
 ```
 
 If you need to change any value, then the best process is to copy the [thumb-ratings.yaml](thumb-ratings.yaml) file into your `users/config/plugins/` folder (create if doesn't exist), and modify it there. This will override the default settings.

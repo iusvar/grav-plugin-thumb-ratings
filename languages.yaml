@@ -24,6 +24,32 @@ en:
     DISABLE_AFTER_VOTE: Disable After Vote
     DISABLE_AFTER_VOTE_HELP: Disable the interaction after the user has already made the vote
 
+# français
+fr:
+  THUMBRATINGS_PLUGIN:
+
+    ERROR_ID: "ERREUR: aucune id assignée à la fonction Twig <code>thumbs()</code>"
+    ERROR_TYPE: "ERREUR: aucun type assigné à la fonction Twig <code>thumbs()</code>"
+
+    USE_BUILT_IN_CSS: "Utiliser les CSS natifs"
+    
+    CALLBACK_URL: "URL de secours"
+    CALLBACK_URL_HELP: "Un chemin que recherchera le plugin pour traîter les appels Ajax"
+
+    UP_BGCOLOR: "Couleur du fond haut"
+    DOWN_BGCOLOR: "Couleur du fond bas"
+    UP_COLOR: "Couleur du haut"
+    DOWN_COLOR: "Couleur du bas"
+
+    UNIQUE_IP_CHECK: "Vérification d'IP unique"
+    UNIQUE_IP_CHECK_HELP: "Permet de s'assurer qu'une IP spécifique ne peux voter qu'une seule fois"
+    
+    READ_ONLY: "Lecture seule"
+    READ_ONLY_HELP: "Paramétrer sur lecture seule pour interdire toute intéraction"
+
+    DISABLE_AFTER_VOTE: "Désactiver après le vote"
+    DISABLE_AFTER_VOTE_HELP: "Désactiver l'intéraction après que l'utilisateur ait voté"
+
 # Italiano
 it:
   THUMBRATINGS_PLUGIN:
