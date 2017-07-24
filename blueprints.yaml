@@ -3,7 +3,7 @@ version: 0.1.1
 description: Thumb Ratings plugin for GRAV!
 icon: thumbs-o-up
 author:
-  name: iusvar
+  name: Severo Iuliano
   email: severoiuliano@gmail.com
   url: http://iusvar.hostfree.pw/
 homepage: https://github.com/iusvar/grav-plugin-thumb-ratings

@@ -1,5 +1,5 @@
 # v0.1.1
-## 08/10/2016
+## 07/24/2017
 
 1. [](#improved)
     * Added french (@MATsxm) language

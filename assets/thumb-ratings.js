@@ -1,5 +1,5 @@
+//var realoadThumb = jQuery(function() {
 jQuery(function() {
-
     $(".thumb").click(function(){
         var id = $(this).attr('id');
         var res = id.substr(1, 1);
