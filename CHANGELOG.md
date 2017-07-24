@@ -3,7 +3,6 @@
 
 1. [](#improved)
     * Added french (@MATsxm) language
-1. [](#improved)
     * Added default colors
 
 # v0.1.0
